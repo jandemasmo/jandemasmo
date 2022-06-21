@@ -15,9 +15,10 @@ Tenho 32 anos, trabalho como WEB design usando a plataforma Wordpress/Elementor 
 * ⚡  Meu hobby é assistir filmes e séries nas horas vagas.
 
 <a href="https://www.github.com/jandemasmo" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/jandemasmo?logo=github&style=for-the-badge&color=cccccc&labelColor=a31b52" /></a>
+src="https://img.shields.io/github/followers/jandemasmo?logo=github&style=for-the-badge&color=cccccc&labelColor=A31B52" /></a>
 <a href="https://www.linkedin.com/in/jandemasmo/" rel="external" target="_target"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:jandemasmo@yahoo.com"><img src="https://img.shields.io/badge/-Yahoo-%23333?style=for-the-badge&logo=Yahoo!&logoColor=white" target="_blank"></a>
+<a href="https://www.behance.net/tijandemasmo" rel="external" target="_target"><img src="https://img.shields.io/badge/-Behance-%16bc27?style=for-the-badge&logo=Behance&logoColor=white%22%20target=%22_blank" target="_blank"></a> 
 
 <div>
   <a href="https://github.com/jandemasmo">
@@ -30,6 +31,11 @@ src="https://img.shields.io/github/followers/jandemasmo?logo=github&style=for-th
   <img align="center" alt="Jande Masmo - HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jande Masmo -CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jande Masmo -Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Jande Masmo -React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Jande Masmo -NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Jande Masmo -Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-plain.svg">
+    <img align="center" alt="Jande Masmo -MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
+  <img align="center" alt="Jande Masmo -Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
 
 
