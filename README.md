@@ -20,7 +20,7 @@ src="https://img.shields.io/github/followers/jandemasmo?logo=github&style=for-th
 <a href = "mailto:jandemasmo@yahoo.com"><img src="https://img.shields.io/badge/-Yahoo-%23333?style=for-the-badge&logo=Yahoo!&logoColor=white" target="_blank"></a>
 
 <div align="left">
-  <a href="https://github.com/mfmjr">
+  <a href="https://github.com/jandemasmo">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jandemasmo&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jandemasmo&layout=compact&langs_count=7&theme=aura"/>
     
