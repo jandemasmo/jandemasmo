@@ -21,8 +21,8 @@ src="https://img.shields.io/github/followers/jandemasmo?logo=github&style=for-th
 
 <div>
   <a href="https://github.com/jandemasmo">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jandemasmo&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jandemasmo&layout=compact&langs_count=7&theme=aura"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jandemasmo&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jandemasmo&layout=compact&langs_count=7&theme=aura"/>
   </a>
 </div>   
   
@@ -31,6 +31,6 @@ src="https://img.shields.io/github/followers/jandemasmo?logo=github&style=for-th
   <img align="center" alt="Jande Masmo -CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jande Masmo -Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
- ##
+
 
   
