@@ -1,15 +1,13 @@
 Olá 👋 Meu nome é Jande Masmo
 ==========================
 
-Tenho 32 anos, trabalho como WEB design usando a plataforma Wordpress/Elementor há 3 anos onde participei ativamente na criação de diversos projetos de criação de landing pages, websites, páginas de capturas e outros (<a href="https://www.behance.net/tijandemasmo" rel="external" target="_blank">Behance</a>). Porém em 2022 decidi entrar para o mundo da TI me tornando Desenvolvedor WEB. De lá para cá tenho cada vez mais me aprofundado em tecnologias amplamente usadas na web.
+Tenho 32 anos, trabalho como WEB designer usando a plataforma Wordpress/Elementor. Há 3 anos, participo ativamente de diversos projetos de criação de landing pages, websites, páginas de capturas e outros (<a href="https://www.behance.net/tijandemasmo" rel="external" target="_blank">Behance</a>). Porém, em 2022, decidi entrar para o mundo da TI me tornando Desenvolvedor WEB. De lá para cá, tenho cada vez mais me aprofundado em tecnologias amplamente usadas na web.
 
 
 * 🌍  Cidade Ocidental, Goías
 * ✉️  Você pode me contatar [jandemasmo@yahoo.com](mailto:jandemasmo@yahoo.com).
-* 🚀  Atualmente trabalho como Freelancer Web Design Wordpress/Elementor.
 * 🧠  Me aprofundando nos conhecimentos de Javascript e PHP.
 * 🤝 Estou aberto a colaborar em projetos de alto impacto na vida das pessoas.
-* ⚡  Meu hobby é assistir filmes e séries nas horas vagas.
 
 <a href="https://www.github.com/jandemasmo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/jandemasmo?logo=github&style=for-the-badge&color=cccccc&labelColor=A31B52" /></a>
