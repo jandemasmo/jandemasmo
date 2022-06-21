@@ -1,9 +1,6 @@
 Olá 👋 Meu nome é Jande Masmo
 ==========================
 
-Full Stack Developer
------------------------------
-
 Tenho 32 anos, trabalho como WEB design usando a plataforma Wordpress/Elementor há 3 anos onde participei ativamente na criação de diversos projetos de criação de landing pages, websites, páginas de capturas e outros (<a href="https://www.behance.net/tijandemasmo" rel="external" target="_blank">Behance</a>). Porém em 2022 decidi entrar para o mundo da TI me tornando Desenvolvedor WEB. De lá para cá tenho cada vez mais me aprofundado em tecnologias amplamente usadas na web.
 
 
@@ -22,8 +19,8 @@ src="https://img.shields.io/github/followers/jandemasmo?logo=github&style=for-th
 
 <div>
   <a href="https://github.com/jandemasmo">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jandemasmo&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jandemasmo&layout=compact&langs_count=7&theme=aura"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jandemasmo&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jandemasmo&layout=compact&langs_count=7&theme=omni"/>
   </a>
 </div>   
   
