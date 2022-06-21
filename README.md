@@ -17,8 +17,8 @@ src="https://img.shields.io/github/followers/jandemasmo?logo=github&style=for-th
 
 <div>
   <a href="https://github.com/jandemasmo">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jandemasmo&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jandemasmo&layout=compact&langs_count=7&theme=omni"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jandemasmo&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jandemasmo&layout=compact&langs_count=7&theme=swift"/>
   </a>
 </div>   
   
