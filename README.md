@@ -33,7 +33,7 @@ src="https://img.shields.io/github/followers/jandemasmo?logo=github&style=for-th
   <img align="center" alt="Jande Masmo -Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Jande Masmo -React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Jande Masmo -NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Jande Masmo -Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-plain.svg">
+  <img align="center" alt="Jande Masmo -Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
     <img align="center" alt="Jande Masmo -MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
   <img align="center" alt="Jande Masmo -Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
