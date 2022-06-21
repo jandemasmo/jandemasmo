@@ -4,7 +4,7 @@ Olá 👋 Meu nome é Jande Masmo
 Full Stack Developer
 -----------------------------
 
-Tenho 32 anos, trabalho como WEB design usando a plataforma Wordpress/Elementor há 3 anos onde participei ativamente na criação de diversos projetos de criação de landing pages, websites, páginas de capturas e outros (<a href="https://www.behance.net/tijandemasmo" rel="external" target="_target">BEHANCE</a>). Porém em 2022 decidi entrar para o mundo da TI me tornando Desenvolvedor WEB. De lá para cá tenho cada vez mais me aprofundado em tecnologias amplamente usadas na web.
+Tenho 32 anos, trabalho como WEB design usando a plataforma Wordpress/Elementor há 3 anos onde participei ativamente na criação de diversos projetos de criação de landing pages, websites, páginas de capturas e outros (<a href="https://www.behance.net/tijandemasmo" rel="external" target="_blank">Behance</a>). Porém em 2022 decidi entrar para o mundo da TI me tornando Desenvolvedor WEB. De lá para cá tenho cada vez mais me aprofundado em tecnologias amplamente usadas na web.
 
 
 * 🌍  Cidade Ocidental, Goías
@@ -18,7 +18,7 @@ Tenho 32 anos, trabalho como WEB design usando a plataforma Wordpress/Elementor 
 src="https://img.shields.io/github/followers/jandemasmo?logo=github&style=for-the-badge&color=cccccc&labelColor=A31B52" /></a>
 <a href="https://www.linkedin.com/in/jandemasmo/" rel="external" target="_target"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:jandemasmo@yahoo.com"><img src="https://img.shields.io/badge/-Yahoo-%23333?style=for-the-badge&logo=Yahoo!&logoColor=white" target="_blank"></a>
-<a href="https://www.behance.net/tijandemasmo" rel="external" target="_target"><img src="https://img.shields.io/badge/-Behance-%16bc27?style=for-the-badge&logo=Behance&logoColor=white%22%20target=%22_blank" target="_blank"></a> 
+<a href="https://www.behance.net/tijandemasmo" rel="external" target="_blank"><img src="https://img.shields.io/badge/-Behance-%16bc27?style=for-the-badge&logo=Behance&logoColor=white%22%20target=%22_blank" target="_blank"></a> 
 
 <div>
   <a href="https://github.com/jandemasmo">
